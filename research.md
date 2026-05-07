@@ -1,3 +1,4 @@
+[Home](index.md) | [Research](research.md) | [Projects](projects.md) | [Resume](resume.pdf) | [LinkedIn](https://www.linkedin.com/in/huyle1625) | [GitHub](https://github.com/lehuypitt)
 # Research
 
 ## Dissertation
