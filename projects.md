@@ -11,6 +11,8 @@ Built a spatial risk forecasting and route-scoring framework for San Francisco u
 
 [GitHub Repository](https://github.com/lehuypitt/spatial-risk-route-optimization)
 
+---
+
 ## Adaptive Rejection Sampling R Package
 
 **UC Berkeley Statistical Computing Project**
