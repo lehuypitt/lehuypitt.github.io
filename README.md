@@ -17,6 +17,6 @@ I am interested in quantitative research, statistical modeling, machine learning
 
 ## Links
 
-- [Resume](link-to-resume-later)
+- [Resume](resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/huyle1625/)
 - [Personal Website](https://lehuypitt.github.io)
