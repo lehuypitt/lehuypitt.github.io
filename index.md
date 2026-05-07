@@ -12,6 +12,7 @@ I am interested in quantitative research, data science, machine learning, time s
 
 ## Links
 
+- [Research](research.md)
 - [Resume](resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/huyle1625)
 - [GitHub](https://github.com/lehuypitt)
